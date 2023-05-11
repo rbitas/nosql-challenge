@@ -61,7 +61,7 @@ Use update_many to convert latitude and longitude to decimal numbers.
 
 Use update_many to convert RatingValue to integer numbers.
 
-#Part 3: Exploratory Analysis
+# Part 3: Exploratory Analysis
 
 Eat Safe, Love has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
 
